@@ -8,8 +8,8 @@ Tailwind CSS is a powerful and customizable CSS framework that makes it easy to 
 
 ## Configuration Highlights
 
-# liner gradient background color is used
-# also achive liner gradient border color
+# linear gradient background color is used
+# also achive linear gradient border color
 
 - **Box Sizing**: Prevent padding and border from affecting element width.
 - **Border Styles**: Allow adding a border to an element by just adding a border-width.
